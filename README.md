@@ -11,16 +11,16 @@ url: http://www.duplavis.com/venanzio/mgs_coalgebra/index.html
 
 | Date Presented | Topics | Lecture Material |
 | ---  | ---    | ---              |
-| **1** Sun 4/9|Introduction to Infinite Types  Streams and Non-well-founded Trees;  Productivity and Guardedness|Outline of [Lecture 1][]; [Chapter 8][] of *The Construction of Infinity*|
-| **1E** Mon 4/10| Exercise Class 1 | [Haskell Code 1][] |
-| **2** Mon 4/10| (Final) Coalgebras;  Bisimulation and CoInduction| Outline of [Lecture 2][];  [Coalgebras in functional programming and type theory][] |
-| **2E** Tue 4/11| Exercise Class 2 | [Coq Code 1][] |
-| **3** Tue 4/11| Monadic Stream Functions; The Continuity Principle | Outline of [Lecture 3][];  [The Continuity of Monadic Stream Functions][]  with Jon Fowler |
-| **3E** Wed 4/12| Exercise Class 3 | [Haskell Code 2][] |
-| **4** Wed 4/12 | CoInductive Reasoning; Common Knowledge| [The Coinductive Formulation of Common Knowledge][] with Colm Baston |
-| **4E** Thu 4/13 | Exercise Class 4 | [Coq Code 2][] |
-| **A** from MGS 2013 | Strategy Trees; Function Tabulation | [Lecture A][] |
-| **B** from MGS 2013 | Simultaneous (Co)Induction / Recursion; Wander Types| [Lecture B][]; [Wander Types][] |
+| Sun 4/9|Introduction to Infinite Types  Streams and Non-well-founded Trees;  Productivity and Guardedness|Outline of [Lecture 1][]; [Chapter 8][] of *The Construction of Infinity*|
+| Mon 4/10| Exercise Class 1 | [Haskell Code 1][] |
+| Mon 4/10| (Final) Coalgebras;  Bisimulation and CoInduction| Outline of [Lecture 2][];  [Coalgebras in functional programming and type theory][] |
+| Tue 4/11| Exercise Class 2 | [Coq Code 1][] |
+| Tue 4/11| Monadic Stream Functions; The Continuity Principle | Outline of [Lecture 3][];  [The Continuity of Monadic Stream Functions][]  with Jon Fowler |
+| Wed 4/12| Exercise Class 3 | [Haskell Code 2][] |
+| Wed 4/12 | CoInductive Reasoning; Common Knowledge| [The Coinductive Formulation of Common Knowledge][] with Colm Baston |
+| Thu 4/13 | Exercise Class 4 | [Coq Code 2][] |
+| from MGS 2013 | Strategy Trees; Function Tabulation | [Lecture A][] |
+| from MGS 2013 | Simultaneous (Co)Induction / Recursion; Wander Types| [Lecture B][]; [Wander Types][] |
 
 [main site]: http://www.duplavis.com/venanzio/mgs_coalgebra/index.html
 [Lecture 1]: http://www.duplavis.com/venanzio/mgs_coalgebra/mgs2017_lecture1.pdf
