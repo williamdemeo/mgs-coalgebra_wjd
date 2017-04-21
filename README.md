@@ -9,7 +9,7 @@ The original source of these materials was
 url: http://www.duplavis.com/venanzio/mgs_coalgebra/index.html
 
 
-| Date | Topics | Lecture Material |
+| Date Presented | Topics | Lecture Material |
 | ---  | ---    | ---              |
 | **1** Sun 4/9|Introduction to Infinite Types  Streams and Non-well-founded Trees;  Productivity and Guardedness|Outline of [Lecture 1][]; [Chapter 8][] of *The Construction of Infinity*|
 | **1E** Mon 4/10| Exercise Class 1 | [Haskell Code 1][] |
